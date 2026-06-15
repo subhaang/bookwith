@@ -25,7 +25,7 @@ export const BookSkeleton: React.FC = () => {
       </div>
 
       <div className="mt-3 space-y-2">
-        <div className="h-4 w-3/4 animate-pulse rounded bg-gray-200 dark:bg-gray-800" />
+         <div className="h-4 w-3/4 animate-pulse rounded bg-gray-200 dark:bg-gray-800" />
         <div className="h-3 w-1/2 animate-pulse rounded bg-gray-200 dark:bg-gray-800" />
       </div>
     </motion.li>
